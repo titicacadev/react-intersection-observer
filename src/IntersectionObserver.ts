@@ -25,7 +25,7 @@ export const getOptions = (props: Props) => {
   }, {});
 };
 
-interface Props extends Options {
+export interface Props extends Options {
   /**
    * The element that is used as the target to observe.
    */
