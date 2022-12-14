@@ -14,7 +14,8 @@
     "jsx": "react",
     "rootDir": "src",
     "declarationDir": "./typings",
-    "outDir": "./lib/es"
+    "outDir": "./lib/es",
+    "skipLibCheck": true
   },
   "include": ["src/**/*.ts"]
 }
